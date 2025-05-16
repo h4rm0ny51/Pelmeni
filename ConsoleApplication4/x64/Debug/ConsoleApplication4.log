@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+D:\VS\VC\Tools\MSVC\14.42.34433\include\cfloat(10,10): error C1083: Не удается открыть файл включение: float.h: No such file or directory,
+  (компиляция исходного файла "ConsoleApplication4.cpp")
+  
